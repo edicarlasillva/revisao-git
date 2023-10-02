@@ -10,9 +10,9 @@ App mobile para *visualização* dos pontos de coletas
 - App mobile
 - Contato
 
-* Item 1
-* Item 2
-* Item 3
+1. Item 1
+2. Item 2
+3. Item 3
 
 ### Links
 [TypeScript](https://www.typescriptlang.org/)
@@ -28,5 +28,5 @@ App mobile para *visualização* dos pontos de coletas
 alert("Olá")
 ```
 
-[x] Banner
-[] Rodapé
+- [x] Banner
+- [] Rodapé
